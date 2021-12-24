@@ -1,0 +1,6 @@
+# Ignore files
+config.py
+archive
+archive.zip
+movies_metadata.csv
+ratings.csv
